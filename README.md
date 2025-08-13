@@ -81,14 +81,14 @@ OOP-in-Cpp-Sem2/
 
 ---
 
-## Chapter Progress Tracker
+## 📊 Chapter Progress Tracker
 
-| Chapter | Status |
-|---------|--------|
-| Chapter 6 – Objects and Classes | - [x] Completed |
-| Chapter 8 – Operator Overloading | - [ ] Not Started |
-| Chapter 9 – Inheritance | - [ ] Not Started |
-| Chapter 11 – Virtual Functions | - [ ] Not Started |
+| Chapter | Topics Covered | Book Codes | Book Exercises | Status |
+|---------|----------------|------------|----------------|--------|
+| 6 – Objects and Classes | Classes, Objects | ✅ | ✅ | <span style="color:green">Completed</span> |
+| 8 – Operator Overloading | Operator Overloading | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
+| 9 – Inheritance | Inheritance Basics | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
+| 11 – Virtual Functions | Virtual Functions, Polymorphism | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
 
 ---
 
