@@ -32,6 +32,7 @@ It is intended as a **personal archive, a quick reference for revision, and a he
 
 ## 📂 Repository Structure
 
+```text
 OOP-in-Cpp-Sem2/
 │
 ├── Chapter-06-Objects-and-Classes/
@@ -56,6 +57,7 @@ OOP-in-Cpp-Sem2/
 │
 ├── README.md                    # Main repository overview
 └── Object-Oriented-Programming-in-C++-4th-Edition.pdf  # Reference book
+```
 
 ---
 
