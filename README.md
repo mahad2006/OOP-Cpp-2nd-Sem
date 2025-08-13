@@ -36,13 +36,13 @@ OOP-in-Cpp-Sem2/
 │
 ├── Chapter-06-Objects-and-Classes/
 │   ├── README.md                # Overview of this chapter's contents
-│   ├── chapter-codes/           # Topic-wise codes from the book for learning      
+│   ├── chapter-codes/           # Topic-wise codes from the book for learning
 │   └── chapter-exercises/       # End-of-chapter exercises
 │
 ├── Chapter-08-Operator-Overloading/
 │   ├── README.md
-│   ├── chapter-codes/ 
-│   └── chapter-exercises/ 
+│   ├── chapter-codes/
+│   └── chapter-exercises/
 │
 ├── Chapter-09-Inheritance/
 │   ├── README.md
@@ -56,7 +56,6 @@ OOP-in-Cpp-Sem2/
 │
 ├── README.md                    # Main repository overview
 └── Object-Oriented-Programming-in-C++-4th-Edition.pdf  # Reference book
-
 
 ---
 
