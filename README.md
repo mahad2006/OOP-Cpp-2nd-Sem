@@ -22,14 +22,6 @@ It is intended as a **personal archive, a quick reference for revision, and a he
 
 ---
 
-## Contributor
-**Name:** Shaikh Mahad  
-**Program:** BS Computer Science (BSCS) – Batch 2025  
-**GitHub:** [[YourGitHubProfileLink](https://github.com/mahad2006)]  
-**LinkedIn:** [[www.linkedin.com/in/codewithmahad](https://www.linkedin.com/in/codewithmahad/)]  
-
----
-
 ## 📂 Repository Structure
 
 ```text
@@ -89,16 +81,14 @@ OOP-in-Cpp-Sem2/
 
 ---
 
-## Chapter Progress Tracker
+## 📊 Chapter Progress Tracker
 
-| Chapter | Status |
-|---------|--------|
-| Chapter 6 – Objects and Classes | ☐ Not Started / ☐ In Progress / ☐ Completed |
-| Chapter 8 – Operator Overloading | ☐ Not Started / ☐ In Progress / ☐ Completed |
-| Chapter 9 – Inheritance | ☐ Not Started / ☐ In Progress / ☐ Completed |
-| Chapter 11 – Virtual Functions | ☐ Not Started / ☐ In Progress / ☐ Completed |
-
-*(Update the status as progress is made)*
+| Chapter | Topics Covered | Book Codes | Book Exercises | Status |
+|---------|----------------|------------|----------------|--------|
+| 6 – Objects and Classes | Classes, Objects | ✅ | ✅ | <span style="color:green">Completed</span> |
+| 8 – Operator Overloading | Operator Overloading | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
+| 9 – Inheritance | Inheritance Basics | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
+| 11 – Virtual Functions | Virtual Functions, Polymorphism | ⬜ | ⬜ | <span style="color:gray">Not Started</span> |
 
 ---
 
@@ -121,7 +111,8 @@ Folders may initially be empty and will be updated gradually.
 
 ## Book Reference
 - **Book:** *Object-Oriented Programming in C++ (4th Edition)* by Robert Lafore  
-- **PDF Link:** [Click here to view/download](book/Object-Oriented-Programming-in-Cpp-4th-Edition.pdf)  
+- **PDF Link:** [Click here to view/download](https://github.com/mahad2006/OOP-Cpp-2nd-Sem/blob/main/Object-Oriented%20Programming%20in%20C%2B%2B%20(4th%20Edition)%20by%20Robert%20Lafore.pdf)
+
 
 ---
 
@@ -130,4 +121,10 @@ This repository is for **educational purposes only**. The book is provided solel
 
 ---
 
+## Contributor
+**Name:** Shaikh Mahad  
+**Program:** BS Computer Science (BSCS) – Batch 2025  
+**GitHub:** [[YourGitHubProfileLink](https://github.com/mahad2006)]  
+**LinkedIn:** [[www.linkedin.com/in/codewithmahad](https://www.linkedin.com/in/codewithmahad/)]  
 
+---
