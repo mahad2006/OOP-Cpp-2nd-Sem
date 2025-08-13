@@ -22,14 +22,6 @@ It is intended as a **personal archive, a quick reference for revision, and a he
 
 ---
 
-## Contributor
-**Name:** Shaikh Mahad  
-**Program:** BS Computer Science (BSCS) – Batch 2025  
-**GitHub:** [[YourGitHubProfileLink](https://github.com/mahad2006)]  
-**LinkedIn:** [[www.linkedin.com/in/codewithmahad](https://www.linkedin.com/in/codewithmahad/)]  
-
----
-
 ## 📂 Repository Structure
 
 ```text
@@ -130,4 +122,10 @@ This repository is for **educational purposes only**. The book is provided solel
 
 ---
 
+## Contributor
+**Name:** Shaikh Mahad  
+**Program:** BS Computer Science (BSCS) – Batch 2025  
+**GitHub:** [[YourGitHubProfileLink](https://github.com/mahad2006)]  
+**LinkedIn:** [[www.linkedin.com/in/codewithmahad](https://www.linkedin.com/in/codewithmahad/)]  
 
+---
