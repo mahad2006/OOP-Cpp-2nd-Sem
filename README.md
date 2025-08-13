@@ -26,7 +26,7 @@ It is intended as a **personal archive, a quick reference for revision, and a he
 **Name:** Shaikh Mahad  
 **Program:** BS Computer Science (BSCS) – Batch 2025  
 **GitHub:** [[YourGitHubProfileLink](https://github.com/mahad2006)]  
-**LinkedIn:** www.linkedin.com/in/codewithmahad  
+**LinkedIn:** [[www.linkedin.com/in/codewithmahad](https://www.linkedin.com/in/codewithmahad/)]  
 
 ---
 
