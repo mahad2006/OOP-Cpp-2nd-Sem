@@ -53,7 +53,7 @@ int main()
     {
         sa[i] = i * 10; // works like normal array
     }
-
+   
     // Display values
     for (int i = 0; i < 10; i++)
     {

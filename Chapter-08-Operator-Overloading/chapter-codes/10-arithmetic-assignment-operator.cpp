@@ -1,4 +1,3 @@
-// 08-arithmetic-assignment-operator.cpp
 // Demonstrating operator overloading for the '+=' arithmetic assignment operator
 
 #include <iostream>
