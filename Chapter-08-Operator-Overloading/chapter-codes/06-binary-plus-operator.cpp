@@ -4,6 +4,7 @@ using namespace std;
 class Distance
 {
 private:
+
     int feet;
     float inches;
 
@@ -30,7 +31,7 @@ public:
     }
 
     // Overload binary '+' operator
-    Distance operator+(Distance d2) const
+    Distance operator +(Distance d2) const
     {
         int f = feet + d2.feet;       // add feet
         float i = inches + d2.inches; // add inches

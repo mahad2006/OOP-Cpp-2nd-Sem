@@ -28,7 +28,7 @@ public:
     }
 
     // Overload '+' operator to concatenate two String objects
-    String operator+(const String &s2) const
+    String operator +(const String &s2) const
     {
         String temp;
 
