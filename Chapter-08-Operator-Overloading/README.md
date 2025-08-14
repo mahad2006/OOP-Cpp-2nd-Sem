@@ -39,3 +39,13 @@ This chapter focuses on **operator overloading** in C++, which allows you to red
 ---
 
 ## Folder Structure
+
+```text
+Chapter-08-Operator-Overloading/
+│
+├── README.md
+├── chapter-codes/ # Topic-wise operator overloading codes
+└── chapter-exercises/ # End-of-chapter exercises
+
+```
+---
