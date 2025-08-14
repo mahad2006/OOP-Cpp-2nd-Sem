@@ -1,4 +1,4 @@
-// 09-overloading-subscript-operator.cpp
+
 // Demonstrates overloading the subscript operator [] to create a safe array
 
 #include <iostream>
